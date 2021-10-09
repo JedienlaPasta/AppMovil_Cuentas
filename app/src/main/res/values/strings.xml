@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Paid</string>
+    <string name="config">Settings</string>
+    <string name="editar">Edit Account</string>
+    <string name="eliminar">Delete Account</string>
+    <string name="agregar">Add Account</string>
+    <string name="proximoPago">Next Payment:</string>
+    <string name="irAPagar">GO PAY</string>
+    <string name="cambiarImg">Change Image</string>
+    <string name="listo">Ready</string>
+    <string name="pago">Payment</string>
+    <string name="recordar">Remind</string>
+    <string name="nombre">Name</string>
+    <string name="descripcion">Description</string>
+    <string name="costo">Cost</string>
+    <string name="listaCuentas">List of Accounts</string>
+    <string name="pagado">Paid out</string>
+    <string name="sinPagar">Not Paid</string>
+    <string name="seguroEliminar">Are you sure you want to delete this account?</string>
+    <string name="continuar">Continue</string>
+    <string name="cancelar">Cancel</string>
+    <string name="restante">Days Left:</string>
+
+    <!-- Lista Strings Menu Principal -->
+    <string name="cuentas">Accounts</string>
+    <string name="contactos">Contacts</string>
+    <string name="reportes">Reports</string>
+    <string name="calendario">Calendar</string>
+    <string name="listas">Lists</string>
+
+    <string name="registros">records</string>
+    <string name="importantes">important</string>
+    <string name="gastos">expenses</string>
+    <string name="alertas">alerts</string>
+    <string name="notas">notes</string>
+    <string name="personalizar">personalize</string>
+
+    <!-- Drop Down Menu Items -->
+    <string-array name="tipo_suscripcion">
+        <item>Monthly Subscription</item>
+        <item>Annual Subscription</item>
+    </string-array>
+</resources>

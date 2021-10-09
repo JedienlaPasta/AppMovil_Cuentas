@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paid</string>
+    <string name="config">Configuración</string>
+    <string name="editar">Editar Cuenta</string>
+    <string name="eliminar">Eliminar Cuenta</string>
+    <string name="agregar">Agregar Cuenta</string>
+    <string name="proximoPago">Próximo Pago:</string>
+    <string name="irAPagar">IR A PAGAR</string>
+    <string name="cambiarImg">Cambiar Imagen</string>
+    <string name="listo">Listo</string>
+    <string name="pago">Pago</string>
+    <string name="recordar">Recordar</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripción</string>
+    <string name="costo">Costo</string>
+    <string name="listaCuentas">Lista de Cuentas</string>
+    <string name="pagado">Pagado</string>
+    <string name="sinPagar">Sin pagar</string>
+    <string name="seguroEliminar">¿Está seguro de que quiere eliminar esta cuenta?</string>
+    <string name="continuar">Continuar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="restante">Días Restantes:</string>
+
+    <!-- Lista Strings Menu Principal -->
+    <string name="cuentas">Cuentas</string>
+    <string name="contactos">Contactos</string>
+    <string name="reportes">Reportes</string>
+    <string name="calendario">Calendario</string>
+    <string name="listas">Listas</string>
+
+    <string name="registros">registros</string>
+    <string name="importantes">importantes</string>
+    <string name="gastos">gastos</string>
+    <string name="alertas">alertas</string>
+    <string name="notas">notas</string>
+    <string name="personalizar">personalizar</string>
+
+    <!-- Drop Down Menu Items -->
+    <string-array name="tipo_suscripcion">
+        <item>Suscripcion Mensual</item>
+        <item>Suscripcion Anual</item>
+    </string-array>
+</resources>
