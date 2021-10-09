@@ -59,7 +59,7 @@ p{
     text-align: justify;
 }
 .large-font{
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 700;
 }
 /* Content ========================================================== */
@@ -94,6 +94,25 @@ p{
     width: 100%;
     opacity: 0.9;
     border-radius: 5px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 40px;
+}
+.link{
+    max-width: 175px;
+}
+.link.left{
+    margin-right: 30px;
+}
+.link.right{
+    margin-left: 30px;
+}
+.link img{
+    max-width: 150px;
+    opacity: 0.9;
 }
 /* Footer =========================================================== */
 .footer{
